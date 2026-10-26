@@ -15,8 +15,8 @@ Part of the global Workplace Ninja community. By the community, for the communit
 - **Date:** October 20, 2026
 - **Location:** Microsoft Germany HQ, Munich
 - **Attendees:** 200
-- **Speakers:** 25
-- **Sessions:** 20
+- **Speakers:** 21
+- **Sessions:** 16
 - **Tracks:** 2 (Hive, Washington)
 - **Language:** English
 - **Agenda:** [secninjas-germany.com/agenda](https://www.secninjas-germany.com/agenda)
